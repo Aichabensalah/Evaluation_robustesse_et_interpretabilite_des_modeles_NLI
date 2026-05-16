@@ -1,0 +1,10 @@
+transformers[torch]
+datasets
+evaluate
+accelerate
+optuna
+scikit-learn
+matplotlib
+pandas
+seaborn
+captum
