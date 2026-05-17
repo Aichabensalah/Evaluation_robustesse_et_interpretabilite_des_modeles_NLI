@@ -58,14 +58,17 @@ Ce travail cherche principalement à répondre aux questions suivantes :
 TER-NLI/
 │
 ├── notebooks/
-│   ├── BERT_SNLI_Training_Optuna.ipynb
-│   ├── RoBERTa_SNLI_Training_Optuna.ipynb
-│   ├── DeBERTa_SNLI_Training_Optuna.ipynb
-│   ├── BERT_MNLI_Training.ipynb
-│   ├── BERT_ANLI_Training.ipynb
-│   ├── Evaluation_Cross_Benchmark.ipynb
-│   ├── Interpretability_BERT_SNLI.ipynb
-│   └── BERT_SNLI_Weight_Decay_Sensitivity.ipynb
+│   ├── 01_BERT_SNLI_Training_Optuna_clean.ipynb
+│   ├── 02_RoBERTa_SNLI_Training_Optuna_clean.ipynb
+│   ├── 03_DeBERTa_SNLI_Training_Optuna_clean.ipynb
+│   ├── 04_BERT_MNLI_Training_clean.ipynb
+│   ├── 05_BERT_ANLI_Training_clean.ipynb
+│   ├── 06_Evaluation_Cross_Benchmark_clean.ipynb
+│   ├── 07_Interpretability_BERT_SNLI_clean.ipynb
+│   ├── 08_BERT_SNLI_Weight_Decay_Sensitivity_clean.ipynb
+|   └── DEA/
+|       └── 01_EDA_NLI.ipynb
+|
 │
 ├── models/
 ├── figures/
