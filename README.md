@@ -65,7 +65,7 @@ TER-NLI/
 │   ├── 05_BERT_ANLI_Training_clean.ipynb
 │   ├── 06_Evaluation_Cross_Benchmark_clean.ipynb
 │   ├── 07_Interpretability_BERT_SNLI_clean.ipynb
-│   ├──08_BERT_SNLI_Weight_Decay_Sensitivity_clean.ipynb
+│   ├── 08_BERT_SNLI_Weight_Decay_Sensitivity_clean.ipynb
 |   └── DEA/
 |       └── 01_EDA_NLI.ipynb
 |

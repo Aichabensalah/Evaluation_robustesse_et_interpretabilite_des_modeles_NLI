@@ -1,0 +1,12 @@
+.ipynb_checkpoints/
+__pycache__/
+*.pyc
+
+
+models/
+results/
+outputs/
+checkpoints/
+
+.DS_Store
+.vscode/
